@@ -1,0 +1,44 @@
+{
+  "name": "bored-agent",
+  "version": "1.0.0",
+  "description": "Bored - the idle agent: uses idle time productively. Consolidate memories, explore areas, prepare for tasks.",
+  "license": "MIT",
+  "bin": {
+    "bored-agent": "bin/bored-agent.js"
+  },
+  "files": [
+    "bin/",
+    "agents/bored/",
+    "kit/acp_kit/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "acp",
+    "agent",
+    "ai-agents",
+    "idle",
+    "productive",
+    "consolidate",
+    "explore",
+    "ascii-art",
+    "meme",
+    "discord",
+    "zed",
+    "gemini-cli"
+  ],
+  "author": {
+    "name": "mrfentmen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfentmen/bored.git"
+  },
+  "homepage": "https://github.com/mrfentmen/bored",
+  "bugs": {
+    "url": "https://github.com/mrfentmen/bored/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
